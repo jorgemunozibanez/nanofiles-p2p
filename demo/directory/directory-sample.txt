@@ -1,0 +1,1 @@
+This file is served directly by the NanoFiles directory during the local demo.

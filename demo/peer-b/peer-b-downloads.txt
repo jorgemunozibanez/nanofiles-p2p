@@ -1,0 +1,1 @@
+Files downloaded by peer B will be stored in this directory.
